@@ -1,0 +1,17 @@
+{
+  "name": "aws-vpc-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for aws vpc elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Mahmoud Ezzat",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
